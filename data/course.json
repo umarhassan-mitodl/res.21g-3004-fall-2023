@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "c2888b54-98c4-4c63-b1e8-c93d56f10676"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "da25805f-3dbb-4668-99c7-7426a1aaddf1",
+    "website": "marguerite-de-navarre-society-website"
+  },
+  "course_title": "Marguerite de Navarre Society Website",
+  "hide_download": true,
+  "course_description": "Recent decades have seen a sharp increase in critical interest in Marguerite de Navarre and her work. This society website is dedicated to the study of Marguerite, her network, and her historical and cultural influence. The main goals are to facilitate scholarly exchange, to encourage collaboration, and to make digital resources available to the wider community. The society seeks to bring together the multiple lines of inquiry which inspire our understanding and appreciation of Marguerite, and to inspire new ones.\n\nThe Marguerite de Navarre Society website is published under a {{% resource_link \"f84fa762-33c1-4fd5-b338-2af93f4a0a45\" \"Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA) International\" %}} license.",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21G-3004",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "marguerite-de-navarre-society-website"
+  },
+  "learning_resource_types": [],
+  "site_uid": "bd478626-3762-412b-a1e4-1fbf06ae04e0",
+  "site_short_id": "res.21g-3004-fall-2023",
+  "site_url_path": "courses/res-21g-3004-marguerite-de-navarre-society-website-fall-2023"
+}
