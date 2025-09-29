@@ -29,7 +29,7 @@
   },
   "course_title": "Marguerite de Navarre Society Website",
   "hide_download": true,
-  "course_description": "Recent decades have seen a sharp increase in critical interest in Marguerite de Navarre and her work. This society website is dedicated to the study of Marguerite, her network, and her historical and cultural influence. The main goals are to facilitate scholarly exchange, to encourage collaboration, and to make digital resources available to the wider community. The society seeks to bring together the multiple lines of inquiry which inspire our understanding and appreciation of Marguerite, and to inspire new ones.\n\nThe Marguerite de Navarre Society website is published under a {{% resource_link \"f84fa762-33c1-4fd5-b338-2af93f4a0a45\" \"Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA) International\" %}} license.",
+  "course_description": "Recent decades have seen a sharp increase in critical interest in Marguerite de Navarre and her work. This society website is dedicated to the study of Marguerite, her network, and her historical and cultural influence. The main goals are to facilitate scholarly exchange, to encourage collaboration, and to make digital resources available to the wider community. The society seeks to bring together the multiple lines of inquiry which inspire our understanding and appreciation of Marguerite, and to inspire new ones.\n\nThe Marguerite de Navarre Society website is published under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA) International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.",
   "department_numbers": [
     "21G"
   ],
@@ -39,6 +39,7 @@
     "content": "",
     "website": "marguerite-de-navarre-society-website"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "bd478626-3762-412b-a1e4-1fbf06ae04e0",
   "site_short_id": "res.21g-3004-fall-2023",
