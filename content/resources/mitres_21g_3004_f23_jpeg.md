@@ -7,7 +7,8 @@ file_size: 265037
 file_type: image/jpeg
 image_metadata:
   caption: "A portrait of Marguerite de Navarre attributed to Fran\xE7ois Clouet.\
-    \ (Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_de_Marguerite_de_Navarre,_attribu%C3%A9_%C3%A0_Fran%C3%A7ois_Clouet,_mus%C3%A9e_Cond%C3%A9_(cropped).jpg).)"
+    \ (Image is in the public domain. Source: {{% resource_link \"0d535cb4-0617-4796-b449-11fc4b94b4bf\"\
+    \ \"Wikimedia Commons\" %}}.)"
   credit: ''
   image-alt: A sixteenth-century older woman dressed in a black dress with an ermine
     collared coat and black and headdress holding a small lapdog.
